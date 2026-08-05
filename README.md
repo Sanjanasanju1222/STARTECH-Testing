@@ -56,12 +56,19 @@ ________________________________________
 • Screenshot Documentation
 ________________________________________
 
-## 🗂️Repository Structure Star Tech Website-Testing │ ├── Star Tech-Testing.xlsx ├── Star Tech-TestPlan.pdf ├── Mind Map.png ├── Bug Screenshots ├── Star Tech Logo.png └── README.md
+## 📂 Repository Structure
+
+Star Tech Website-Testing
+├── Test Cases.xlsx
+├── Test Plan.pdf
+├── Bug Screenshots
+├── Mind Map.png
+└── README.md
 ________________________________________
 
 ## 👩‍💻Author 
 
-Shanjana Tanjim
+Shanjana Tanjim Shamonti
 
 💡Interested in Software Quality Assurance, Web Testing, and Software Engineering
 ________________________________________
